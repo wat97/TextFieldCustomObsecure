@@ -1,6 +1,7 @@
 name: widget_textfield
 description: A Custom TextF Field can obsecure text with open eye and close eye
 version: 0.0.1
+repository: https://github.com/wat97/TextFieldCustomObsecure
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
@@ -20,7 +21,3 @@ dev_dependencies:
 
 
 flutter:
-
-
-  uses-material-design: true
-
