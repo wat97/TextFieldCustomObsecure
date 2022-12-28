@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:widget_textfield/text_field_outlined_icon.dart';
+import 'package:widget_textfield/src/text_field_outlined_icon.dart';
 
 void main() {
   runApp(MyApp());
